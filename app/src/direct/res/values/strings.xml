@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Lets Lia read labels on screen and tap, type or scroll when you ask. Nothing is read until you turn this on.</string>
+</resources>

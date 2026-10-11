@@ -1,0 +1,3 @@
+# Copy to porcupine.properties (git-ignored). Direct build only.
+# Create a free AccessKey at console.picovoice.ai and paste it here.
+accessKey=
